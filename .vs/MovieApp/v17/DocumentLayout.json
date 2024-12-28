@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ayta\u00E7\\Desktop\\Nesne \u00D6devi\\MovieApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2983BA83-5260-4074-8745-17AC7733B39B}|MovieApp\\MovieApp.csproj|C:\\Users\\Ayta\u00E7\\Desktop\\Nesne \u00D6devi\\MovieApp\\movieapp\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2983BA83-5260-4074-8745-17AC7733B39B}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2983BA83-5260-4074-8745-17AC7733B39B}|MovieApp\\MovieApp.csproj|C:\\Users\\Ayta\u00E7\\Desktop\\Nesne \u00D6devi\\MovieApp\\movieapp\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2983BA83-5260-4074-8745-17AC7733B39B}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2983BA83-5260-4074-8745-17AC7733B39B}|MovieApp\\MovieApp.csproj|c:\\users\\ayta\u00E7\\desktop\\nesne \u00F6devi\\movieapp\\movieapp\\database1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2983BA83-5260-4074-8745-17AC7733B39B}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\database1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2983BA83-5260-4074-8745-17AC7733B39B}|MovieApp\\MovieApp.csproj|c:\\users\\ayta\u00E7\\desktop\\nesne \u00F6devi\\movieapp\\movieapp\\addmovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2983BA83-5260-4074-8745-17AC7733B39B}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\addmovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2983BA83-5260-4074-8745-17AC7733B39B}|MovieApp\\MovieApp.csproj|C:\\Users\\Ayta\u00E7\\Desktop\\Nesne \u00D6devi\\MovieApp\\movieapp\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2983BA83-5260-4074-8745-17AC7733B39B}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2983BA83-5260-4074-8745-17AC7733B39B}|MovieApp\\MovieApp.csproj|C:\\Users\\Ayta\u00E7\\Desktop\\Nesne \u00D6devi\\MovieApp\\movieapp\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2983BA83-5260-4074-8745-17AC7733B39B}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2983BA83-5260-4074-8745-17AC7733B39B}|MovieApp\\MovieApp.csproj|C:\\Users\\Ayta\u00E7\\Desktop\\Nesne \u00D6devi\\MovieApp\\movieapp\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2983BA83-5260-4074-8745-17AC7733B39B}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2983BA83-5260-4074-8745-17AC7733B39B}|MovieApp\\MovieApp.csproj|C:\\Users\\Ayta\u00E7\\Desktop\\Nesne \u00D6devi\\MovieApp\\movieapp\\homepage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2983BA83-5260-4074-8745-17AC7733B39B}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\homepage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2983BA83-5260-4074-8745-17AC7733B39B}|MovieApp\\MovieApp.csproj|C:\\Users\\Ayta\u00E7\\Desktop\\Nesne \u00D6devi\\MovieApp\\movieapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2983BA83-5260-4074-8745-17AC7733B39B}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2983BA83-5260-4074-8745-17AC7733B39B}|MovieApp\\MovieApp.csproj|C:\\Users\\Ayta\u00E7\\Desktop\\Nesne \u00D6devi\\MovieApp\\movieapp\\favoritedmovies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2983BA83-5260-4074-8745-17AC7733B39B}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\favoritedmovies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2983BA83-5260-4074-8745-17AC7733B39B}|MovieApp\\MovieApp.csproj|C:\\Users\\Ayta\u00E7\\Desktop\\Nesne \u00D6devi\\MovieApp\\movieapp\\favoritedmovies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2983BA83-5260-4074-8745-17AC7733B39B}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\favoritedmovies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2983BA83-5260-4074-8745-17AC7733B39B}|MovieApp\\MovieApp.csproj|C:\\Users\\Ayta\u00E7\\Desktop\\Nesne \u00D6devi\\MovieApp\\movieapp\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2983BA83-5260-4074-8745-17AC7733B39B}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2983BA83-5260-4074-8745-17AC7733B39B}|MovieApp\\MovieApp.csproj|C:\\Users\\Ayta\u00E7\\Desktop\\Nesne \u00D6devi\\MovieApp\\movieapp\\moviewanttowatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2983BA83-5260-4074-8745-17AC7733B39B}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\moviewanttowatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2983BA83-5260-4074-8745-17AC7733B39B}|MovieApp\\MovieApp.csproj|C:\\Users\\Ayta\u00E7\\Desktop\\Nesne \u00D6devi\\MovieApp\\movieapp\\addmovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2983BA83-5260-4074-8745-17AC7733B39B}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\addmovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2983BA83-5260-4074-8745-17AC7733B39B}|MovieApp\\MovieApp.csproj|C:\\Users\\Ayta\u00E7\\Desktop\\Nesne \u00D6devi\\MovieApp\\movieapp\\moviebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2983BA83-5260-4074-8745-17AC7733B39B}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\moviebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2983BA83-5260-4074-8745-17AC7733B39B}|MovieApp\\MovieApp.csproj|C:\\Users\\Ayta\u00E7\\Desktop\\Nesne \u00D6devi\\MovieApp\\movieapp\\addmovie.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2983BA83-5260-4074-8745-17AC7733B39B}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\addmovie.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2983BA83-5260-4074-8745-17AC7733B39B}|MovieApp\\MovieApp.csproj|C:\\Users\\Ayta\u00E7\\Desktop\\Nesne \u00D6devi\\MovieApp\\movieapp\\moviewanttowatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2983BA83-5260-4074-8745-17AC7733B39B}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\moviewanttowatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2983BA83-5260-4074-8745-17AC7733B39B}|MovieApp\\MovieApp.csproj|C:\\Users\\Ayta\u00E7\\Desktop\\Nesne \u00D6devi\\MovieApp\\movieapp\\moviewatched.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2983BA83-5260-4074-8745-17AC7733B39B}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\moviewatched.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2983BA83-5260-4074-8745-17AC7733B39B}|MovieApp\\MovieApp.csproj|C:\\Users\\Ayta\u00E7\\Desktop\\Nesne \u00D6devi\\MovieApp\\movieapp\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2983BA83-5260-4074-8745-17AC7733B39B}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2983BA83-5260-4074-8745-17AC7733B39B}|MovieApp\\MovieApp.csproj|C:\\Users\\Ayta\u00E7\\Desktop\\Nesne \u00D6devi\\MovieApp\\movieapp\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2983BA83-5260-4074-8745-17AC7733B39B}|MovieApp\\MovieApp.csproj|solutionrelative:movieapp\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Ayta\u00E7\\Desktop\\Nesne \u00D6devi\\MovieApp\\MovieApp\\Login.cs",
+              "RelativeDocumentMoniker": "MovieApp\\Login.cs",
+              "ToolTip": "C:\\Users\\Ayta\u00E7\\Desktop\\Nesne \u00D6devi\\MovieApp\\MovieApp\\Login.cs",
+              "RelativeToolTip": "MovieApp\\Login.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwDMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T13:03:43.908Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Homepage.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Ayta\u00E7\\Desktop\\Nesne \u00D6devi\\MovieApp\\MovieApp\\Homepage.cs",
+              "RelativeDocumentMoniker": "MovieApp\\Homepage.cs",
+              "ToolTip": "C:\\Users\\Ayta\u00E7\\Desktop\\Nesne \u00D6devi\\MovieApp\\MovieApp\\Homepage.cs [Tasar\u0131m]",
+              "RelativeToolTip": "MovieApp\\Homepage.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T13:04:55.419Z",
+              "IsPinned": true,
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddMovie.cs",
+              "DocumentMoniker": "C:\\Users\\Ayta\u00E7\\Desktop\\Nesne \u00D6devi\\MovieApp\\MovieApp\\AddMovie.cs",
+              "RelativeDocumentMoniker": "MovieApp\\AddMovie.cs",
+              "ToolTip": "C:\\Users\\Ayta\u00E7\\Desktop\\Nesne \u00D6devi\\MovieApp\\MovieApp\\AddMovie.cs",
+              "RelativeToolTip": "MovieApp\\AddMovie.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T12:22:31.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ayta\u00E7\\Desktop\\Nesne \u00D6devi\\MovieApp\\MovieApp\\Program.cs",
+              "RelativeDocumentMoniker": "MovieApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Ayta\u00E7\\Desktop\\Nesne \u00D6devi\\MovieApp\\MovieApp\\Program.cs",
+              "RelativeToolTip": "MovieApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T23:32:20.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SessionManager.cs",
+              "DocumentMoniker": "C:\\Users\\Ayta\u00E7\\Desktop\\Nesne \u00D6devi\\MovieApp\\MovieApp\\SessionManager.cs",
+              "RelativeDocumentMoniker": "MovieApp\\SessionManager.cs",
+              "ToolTip": "C:\\Users\\Ayta\u00E7\\Desktop\\Nesne \u00D6devi\\MovieApp\\MovieApp\\SessionManager.cs",
+              "RelativeToolTip": "MovieApp\\SessionManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T23:32:17.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Database1.cs",
+              "DocumentMoniker": "C:\\Users\\Ayta\u00E7\\Desktop\\Nesne \u00D6devi\\MovieApp\\MovieApp\\Database1.cs",
+              "RelativeDocumentMoniker": "MovieApp\\Database1.cs",
+              "ToolTip": "C:\\Users\\Ayta\u00E7\\Desktop\\Nesne \u00D6devi\\MovieApp\\MovieApp\\Database1.cs",
+              "RelativeToolTip": "MovieApp\\Database1.cs",
+              "ViewState": "AgIAADIBAAAAAAAAAAAcwE0BAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T21:11:30.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Homepage.cs",
+              "DocumentMoniker": "C:\\Users\\Ayta\u00E7\\Desktop\\Nesne \u00D6devi\\MovieApp\\MovieApp\\Homepage.cs",
+              "RelativeDocumentMoniker": "MovieApp\\Homepage.cs",
+              "ToolTip": "C:\\Users\\Ayta\u00E7\\Desktop\\Nesne \u00D6devi\\MovieApp\\MovieApp\\Homepage.cs",
+              "RelativeToolTip": "MovieApp\\Homepage.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T13:09:00.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Homepage.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ayta\u00E7\\Desktop\\Nesne \u00D6devi\\MovieApp\\MovieApp\\Homepage.Designer.cs",
+              "RelativeDocumentMoniker": "MovieApp\\Homepage.Designer.cs",
+              "ToolTip": "C:\\Users\\Ayta\u00E7\\Desktop\\Nesne \u00D6devi\\MovieApp\\MovieApp\\Homepage.Designer.cs",
+              "RelativeToolTip": "MovieApp\\Homepage.Designer.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAjwIQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T13:09:09.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\Ayta\u00E7\\Desktop\\Nesne \u00D6devi\\MovieApp\\MovieApp\\Movie.cs",
+              "RelativeDocumentMoniker": "MovieApp\\Movie.cs",
+              "ToolTip": "C:\\Users\\Ayta\u00E7\\Desktop\\Nesne \u00D6devi\\MovieApp\\MovieApp\\Movie.cs",
+              "RelativeToolTip": "MovieApp\\Movie.cs",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAcwBkBAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T13:35:03.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FavoritedMovies.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Ayta\u00E7\\Desktop\\Nesne \u00D6devi\\MovieApp\\MovieApp\\FavoritedMovies.cs",
+              "RelativeDocumentMoniker": "MovieApp\\FavoritedMovies.cs",
+              "ToolTip": "C:\\Users\\Ayta\u00E7\\Desktop\\Nesne \u00D6devi\\MovieApp\\MovieApp\\FavoritedMovies.cs [Tasar\u0131m]",
+              "RelativeToolTip": "MovieApp\\FavoritedMovies.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T13:18:56.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FavoritedMovies.cs",
+              "DocumentMoniker": "C:\\Users\\Ayta\u00E7\\Desktop\\Nesne \u00D6devi\\MovieApp\\MovieApp\\FavoritedMovies.cs",
+              "RelativeDocumentMoniker": "MovieApp\\FavoritedMovies.cs",
+              "ToolTip": "C:\\Users\\Ayta\u00E7\\Desktop\\Nesne \u00D6devi\\MovieApp\\MovieApp\\FavoritedMovies.cs",
+              "RelativeToolTip": "MovieApp\\FavoritedMovies.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAcwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T13:25:45.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MovieWantToWatch.cs",
+              "DocumentMoniker": "C:\\Users\\Ayta\u00E7\\Desktop\\Nesne \u00D6devi\\MovieApp\\MovieApp\\MovieWantToWatch.cs",
+              "RelativeDocumentMoniker": "MovieApp\\MovieWantToWatch.cs",
+              "ToolTip": "C:\\Users\\Ayta\u00E7\\Desktop\\Nesne \u00D6devi\\MovieApp\\MovieApp\\MovieWantToWatch.cs",
+              "RelativeToolTip": "MovieApp\\MovieWantToWatch.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAADwvycAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T13:26:15.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Ayta\u00E7\\Desktop\\Nesne \u00D6devi\\MovieApp\\MovieApp\\Login.cs",
+              "RelativeDocumentMoniker": "MovieApp\\Login.cs",
+              "ToolTip": "C:\\Users\\Ayta\u00E7\\Desktop\\Nesne \u00D6devi\\MovieApp\\MovieApp\\Login.cs [Tasar\u0131m]",
+              "RelativeToolTip": "MovieApp\\Login.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T12:21:13.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddMovie.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Ayta\u00E7\\Desktop\\Nesne \u00D6devi\\MovieApp\\MovieApp\\AddMovie.cs",
+              "RelativeDocumentMoniker": "MovieApp\\AddMovie.cs",
+              "ToolTip": "C:\\Users\\Ayta\u00E7\\Desktop\\Nesne \u00D6devi\\MovieApp\\MovieApp\\AddMovie.cs [Tasar\u0131m]",
+              "RelativeToolTip": "MovieApp\\AddMovie.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T14:23:58.334Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MovieWantToWatch.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Ayta\u00E7\\Desktop\\Nesne \u00D6devi\\MovieApp\\MovieApp\\MovieWantToWatch.cs",
+              "RelativeDocumentMoniker": "MovieApp\\MovieWantToWatch.cs",
+              "ToolTip": "C:\\Users\\Ayta\u00E7\\Desktop\\MovieApp\\MovieApp\\MovieWantToWatch.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\MovieApp\\MovieApp\\MovieWantToWatch.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T13:19:15.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MovieBase.cs",
+              "DocumentMoniker": "C:\\Users\\Ayta\u00E7\\Desktop\\Nesne \u00D6devi\\MovieApp\\MovieApp\\MovieBase.cs",
+              "RelativeDocumentMoniker": "MovieApp\\MovieBase.cs",
+              "ToolTip": "C:\\Users\\Ayta\u00E7\\Desktop\\Nesne \u00D6devi\\MovieApp\\MovieApp\\MovieBase.cs",
+              "RelativeToolTip": "MovieApp\\MovieBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T15:22:37.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddMovie.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ayta\u00E7\\Desktop\\Nesne \u00D6devi\\MovieApp\\MovieApp\\AddMovie.Designer.cs",
+              "RelativeDocumentMoniker": "MovieApp\\AddMovie.Designer.cs",
+              "ToolTip": "C:\\Users\\Ayta\u00E7\\Desktop\\Nesne \u00D6devi\\MovieApp\\MovieApp\\AddMovie.Designer.cs",
+              "RelativeToolTip": "MovieApp\\AddMovie.Designer.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAADgv14AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T14:37:36.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MovieWatched.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Ayta\u00E7\\Desktop\\Nesne \u00D6devi\\MovieApp\\MovieApp\\MovieWatched.cs",
+              "RelativeDocumentMoniker": "MovieApp\\MovieWatched.cs",
+              "ToolTip": "C:\\Users\\Ayta\u00E7\\Desktop\\Nesne \u00D6devi\\MovieApp\\MovieApp\\MovieWatched.cs [Tasar\u0131m]",
+              "RelativeToolTip": "MovieApp\\MovieWatched.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T13:19:42.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RegisterForm.cs",
+              "DocumentMoniker": "C:\\Users\\Ayta\u00E7\\Desktop\\Nesne \u00D6devi\\MovieApp\\MovieApp\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "MovieApp\\RegisterForm.cs",
+              "ToolTip": "C:\\Users\\Ayta\u00E7\\Desktop\\Nesne \u00D6devi\\MovieApp\\MovieApp\\RegisterForm.cs",
+              "RelativeToolTip": "MovieApp\\RegisterForm.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T13:11:54.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RegisterForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Ayta\u00E7\\Desktop\\Nesne \u00D6devi\\MovieApp\\MovieApp\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "MovieApp\\RegisterForm.cs",
+              "ToolTip": "C:\\Users\\Ayta\u00E7\\Desktop\\MovieApp\\MovieApp\\RegisterForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\MovieApp\\MovieApp\\RegisterForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T13:05:49.222Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+C:\Users\Aytaç\Desktop\MovieApp\MovieApp\obj\Debug\MovieApp.csproj.AssemblyReference.cache
+C:\Users\Aytaç\Desktop\MovieApp\MovieApp\obj\Debug\MovieApp.AddMovie.resources
+C:\Users\Aytaç\Desktop\MovieApp\MovieApp\obj\Debug\MovieApp.FavoritedMovies.resources
+C:\Users\Aytaç\Desktop\MovieApp\MovieApp\obj\Debug\MovieApp.Homepage.resources
+C:\Users\Aytaç\Desktop\MovieApp\MovieApp\obj\Debug\MovieApp.Login.resources
+C:\Users\Aytaç\Desktop\MovieApp\MovieApp\obj\Debug\MovieApp.MovieWantToWatch.resources
+C:\Users\Aytaç\Desktop\MovieApp\MovieApp\obj\Debug\MovieApp.MovieWatched.resources
+C:\Users\Aytaç\Desktop\MovieApp\MovieApp\obj\Debug\MovieApp.Properties.Resources.resources
+C:\Users\Aytaç\Desktop\MovieApp\MovieApp\obj\Debug\MovieApp.RegisterForm.resources
+C:\Users\Aytaç\Desktop\MovieApp\MovieApp\obj\Debug\MovieApp.csproj.GenerateResource.cache
+C:\Users\Aytaç\Desktop\MovieApp\MovieApp\obj\Debug\MovieApp.csproj.CoreCompileInputs.cache
+C:\Users\Aytaç\Desktop\MovieApp\MovieApp\bin\Debug\MovieApp.exe.config
+C:\Users\Aytaç\Desktop\MovieApp\MovieApp\bin\Debug\MovieApp.exe
+C:\Users\Aytaç\Desktop\MovieApp\MovieApp\bin\Debug\MovieApp.pdb
+C:\Users\Aytaç\Desktop\MovieApp\MovieApp\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Aytaç\Desktop\MovieApp\MovieApp\bin\Debug\EntityFramework.dll
+C:\Users\Aytaç\Desktop\MovieApp\MovieApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Aytaç\Desktop\MovieApp\MovieApp\bin\Debug\Google.Protobuf.dll
+C:\Users\Aytaç\Desktop\MovieApp\MovieApp\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Aytaç\Desktop\MovieApp\MovieApp\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Aytaç\Desktop\MovieApp\MovieApp\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Aytaç\Desktop\MovieApp\MovieApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Aytaç\Desktop\MovieApp\MovieApp\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Aytaç\Desktop\MovieApp\MovieApp\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Aytaç\Desktop\MovieApp\MovieApp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Aytaç\Desktop\MovieApp\MovieApp\bin\Debug\MySql.Data.dll
+C:\Users\Aytaç\Desktop\MovieApp\MovieApp\bin\Debug\MySqlConnector.dll
+C:\Users\Aytaç\Desktop\MovieApp\MovieApp\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Aytaç\Desktop\MovieApp\MovieApp\bin\Debug\System.Buffers.dll
+C:\Users\Aytaç\Desktop\MovieApp\MovieApp\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Aytaç\Desktop\MovieApp\MovieApp\bin\Debug\System.Data.SQLite.dll
+C:\Users\Aytaç\Desktop\MovieApp\MovieApp\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Aytaç\Desktop\MovieApp\MovieApp\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Aytaç\Desktop\MovieApp\MovieApp\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Aytaç\Desktop\MovieApp\MovieApp\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Aytaç\Desktop\MovieApp\MovieApp\bin\Debug\System.Memory.dll
+C:\Users\Aytaç\Desktop\MovieApp\MovieApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Aytaç\Desktop\MovieApp\MovieApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Aytaç\Desktop\MovieApp\MovieApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Aytaç\Desktop\MovieApp\MovieApp\bin\Debug\ZstdSharp.dll
+C:\Users\Aytaç\Desktop\MovieApp\MovieApp\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Aytaç\Desktop\MovieApp\MovieApp\bin\Debug\EntityFramework.xml
+C:\Users\Aytaç\Desktop\MovieApp\MovieApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Aytaç\Desktop\MovieApp\MovieApp\bin\Debug\Google.Protobuf.pdb
+C:\Users\Aytaç\Desktop\MovieApp\MovieApp\bin\Debug\Google.Protobuf.xml
+C:\Users\Aytaç\Desktop\MovieApp\MovieApp\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Aytaç\Desktop\MovieApp\MovieApp\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Aytaç\Desktop\MovieApp\MovieApp\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Aytaç\Desktop\MovieApp\MovieApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Aytaç\Desktop\MovieApp\MovieApp\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Aytaç\Desktop\MovieApp\MovieApp\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Aytaç\Desktop\MovieApp\MovieApp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Aytaç\Desktop\MovieApp\MovieApp\bin\Debug\MySql.Data.xml
+C:\Users\Aytaç\Desktop\MovieApp\MovieApp\bin\Debug\MySqlConnector.xml
+C:\Users\Aytaç\Desktop\MovieApp\MovieApp\bin\Debug\System.Buffers.xml
+C:\Users\Aytaç\Desktop\MovieApp\MovieApp\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Aytaç\Desktop\MovieApp\MovieApp\bin\Debug\System.Data.SQLite.xml
+C:\Users\Aytaç\Desktop\MovieApp\MovieApp\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Aytaç\Desktop\MovieApp\MovieApp\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Aytaç\Desktop\MovieApp\MovieApp\bin\Debug\System.Memory.xml
+C:\Users\Aytaç\Desktop\MovieApp\MovieApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Aytaç\Desktop\MovieApp\MovieApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Aytaç\Desktop\MovieApp\MovieApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Aytaç\Desktop\MovieApp\MovieApp\obj\Debug\MovieApp.csproj.Up2Date
+C:\Users\Aytaç\Desktop\MovieApp\MovieApp\obj\Debug\MovieApp.exe
+C:\Users\Aytaç\Desktop\MovieApp\MovieApp\obj\Debug\MovieApp.pdb
+C:\Users\Aytaç\Desktop\Nesne Ödevi\MovieApp\MovieApp\bin\Debug\MovieApp.exe.config
+C:\Users\Aytaç\Desktop\Nesne Ödevi\MovieApp\MovieApp\bin\Debug\MovieApp.exe
+C:\Users\Aytaç\Desktop\Nesne Ödevi\MovieApp\MovieApp\bin\Debug\MovieApp.pdb
+C:\Users\Aytaç\Desktop\Nesne Ödevi\MovieApp\MovieApp\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Aytaç\Desktop\Nesne Ödevi\MovieApp\MovieApp\bin\Debug\EntityFramework.dll
+C:\Users\Aytaç\Desktop\Nesne Ödevi\MovieApp\MovieApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Aytaç\Desktop\Nesne Ödevi\MovieApp\MovieApp\bin\Debug\Google.Protobuf.dll
+C:\Users\Aytaç\Desktop\Nesne Ödevi\MovieApp\MovieApp\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Aytaç\Desktop\Nesne Ödevi\MovieApp\MovieApp\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Aytaç\Desktop\Nesne Ödevi\MovieApp\MovieApp\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Aytaç\Desktop\Nesne Ödevi\MovieApp\MovieApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Aytaç\Desktop\Nesne Ödevi\MovieApp\MovieApp\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Aytaç\Desktop\Nesne Ödevi\MovieApp\MovieApp\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Aytaç\Desktop\Nesne Ödevi\MovieApp\MovieApp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Aytaç\Desktop\Nesne Ödevi\MovieApp\MovieApp\bin\Debug\MySql.Data.dll
+C:\Users\Aytaç\Desktop\Nesne Ödevi\MovieApp\MovieApp\bin\Debug\MySqlConnector.dll
+C:\Users\Aytaç\Desktop\Nesne Ödevi\MovieApp\MovieApp\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Aytaç\Desktop\Nesne Ödevi\MovieApp\MovieApp\bin\Debug\System.Buffers.dll
+C:\Users\Aytaç\Desktop\Nesne Ödevi\MovieApp\MovieApp\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Aytaç\Desktop\Nesne Ödevi\MovieApp\MovieApp\bin\Debug\System.Data.SQLite.dll
+C:\Users\Aytaç\Desktop\Nesne Ödevi\MovieApp\MovieApp\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Aytaç\Desktop\Nesne Ödevi\MovieApp\MovieApp\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Aytaç\Desktop\Nesne Ödevi\MovieApp\MovieApp\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Aytaç\Desktop\Nesne Ödevi\MovieApp\MovieApp\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Aytaç\Desktop\Nesne Ödevi\MovieApp\MovieApp\bin\Debug\System.Memory.dll
+C:\Users\Aytaç\Desktop\Nesne Ödevi\MovieApp\MovieApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Aytaç\Desktop\Nesne Ödevi\MovieApp\MovieApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Aytaç\Desktop\Nesne Ödevi\MovieApp\MovieApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Aytaç\Desktop\Nesne Ödevi\MovieApp\MovieApp\bin\Debug\ZstdSharp.dll
+C:\Users\Aytaç\Desktop\Nesne Ödevi\MovieApp\MovieApp\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Aytaç\Desktop\Nesne Ödevi\MovieApp\MovieApp\bin\Debug\EntityFramework.xml
+C:\Users\Aytaç\Desktop\Nesne Ödevi\MovieApp\MovieApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Aytaç\Desktop\Nesne Ödevi\MovieApp\MovieApp\bin\Debug\Google.Protobuf.pdb
+C:\Users\Aytaç\Desktop\Nesne Ödevi\MovieApp\MovieApp\bin\Debug\Google.Protobuf.xml
+C:\Users\Aytaç\Desktop\Nesne Ödevi\MovieApp\MovieApp\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Aytaç\Desktop\Nesne Ödevi\MovieApp\MovieApp\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Aytaç\Desktop\Nesne Ödevi\MovieApp\MovieApp\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Aytaç\Desktop\Nesne Ödevi\MovieApp\MovieApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Aytaç\Desktop\Nesne Ödevi\MovieApp\MovieApp\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Aytaç\Desktop\Nesne Ödevi\MovieApp\MovieApp\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Aytaç\Desktop\Nesne Ödevi\MovieApp\MovieApp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Aytaç\Desktop\Nesne Ödevi\MovieApp\MovieApp\bin\Debug\MySql.Data.xml
+C:\Users\Aytaç\Desktop\Nesne Ödevi\MovieApp\MovieApp\bin\Debug\MySqlConnector.xml
+C:\Users\Aytaç\Desktop\Nesne Ödevi\MovieApp\MovieApp\bin\Debug\System.Buffers.xml
+C:\Users\Aytaç\Desktop\Nesne Ödevi\MovieApp\MovieApp\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Aytaç\Desktop\Nesne Ödevi\MovieApp\MovieApp\bin\Debug\System.Data.SQLite.xml
+C:\Users\Aytaç\Desktop\Nesne Ödevi\MovieApp\MovieApp\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Aytaç\Desktop\Nesne Ödevi\MovieApp\MovieApp\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Aytaç\Desktop\Nesne Ödevi\MovieApp\MovieApp\bin\Debug\System.Memory.xml
+C:\Users\Aytaç\Desktop\Nesne Ödevi\MovieApp\MovieApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Aytaç\Desktop\Nesne Ödevi\MovieApp\MovieApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Aytaç\Desktop\Nesne Ödevi\MovieApp\MovieApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Aytaç\Desktop\Nesne Ödevi\MovieApp\MovieApp\obj\Debug\MovieApp.csproj.AssemblyReference.cache
+C:\Users\Aytaç\Desktop\Nesne Ödevi\MovieApp\MovieApp\obj\Debug\MovieApp.AddMovie.resources
+C:\Users\Aytaç\Desktop\Nesne Ödevi\MovieApp\MovieApp\obj\Debug\MovieApp.FavoritedMovies.resources
+C:\Users\Aytaç\Desktop\Nesne Ödevi\MovieApp\MovieApp\obj\Debug\MovieApp.Homepage.resources
+C:\Users\Aytaç\Desktop\Nesne Ödevi\MovieApp\MovieApp\obj\Debug\MovieApp.Login.resources
+C:\Users\Aytaç\Desktop\Nesne Ödevi\MovieApp\MovieApp\obj\Debug\MovieApp.MovieWantToWatch.resources
+C:\Users\Aytaç\Desktop\Nesne Ödevi\MovieApp\MovieApp\obj\Debug\MovieApp.MovieWatched.resources
+C:\Users\Aytaç\Desktop\Nesne Ödevi\MovieApp\MovieApp\obj\Debug\MovieApp.Properties.Resources.resources
+C:\Users\Aytaç\Desktop\Nesne Ödevi\MovieApp\MovieApp\obj\Debug\MovieApp.RegisterForm.resources
+C:\Users\Aytaç\Desktop\Nesne Ödevi\MovieApp\MovieApp\obj\Debug\MovieApp.csproj.GenerateResource.cache
+C:\Users\Aytaç\Desktop\Nesne Ödevi\MovieApp\MovieApp\obj\Debug\MovieApp.csproj.CoreCompileInputs.cache
+C:\Users\Aytaç\Desktop\Nesne Ödevi\MovieApp\MovieApp\obj\Debug\MovieApp.csproj.Up2Date
+C:\Users\Aytaç\Desktop\Nesne Ödevi\MovieApp\MovieApp\obj\Debug\MovieApp.exe
+C:\Users\Aytaç\Desktop\Nesne Ödevi\MovieApp\MovieApp\obj\Debug\MovieApp.pdb
